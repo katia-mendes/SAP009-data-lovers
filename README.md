@@ -7,11 +7,11 @@
 
 * [1. Resumo do projeto](#1-resumo-do-projeto)
 * [2. Introdução](#2-Introdução)
-* [3. Protótipo de baixa qualidade](#3-Protótipo de baixa qualidade)
-* [4. Protótipo de alta fidelidade](#4-prótotipo de alta fidelidade)
-* [5. Histórias de usuário](#5-histórias de usuário)
-* [6. Testes de usabilidade](#6-testes de usabilidade)
-* [7. Considerações técnicas](#7-considerações técnicas)
+* [3. Protótipo de baixa qualidade](#3-Protótipo-de-baixa-qualidade)
+* [4. Protótipo de alta fidelidade](#4-prótotipo-de-alta-fidelidade)
+* [5. Histórias de usuário](#5-histórias-de-usuário)
+* [6. Testes de usabilidade](#6-testes-de-usabilidade)
+* [7. Considerações técnicas](#7-considerações-técnicas)
 * [8. Contatos ](#8-contatos )
 
 ***
