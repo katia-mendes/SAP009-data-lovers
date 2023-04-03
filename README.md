@@ -1,6 +1,7 @@
 # Data Lovers
 
-[link] Clique aqui e acesse nosso site.
+[ https://tatakkkj.github.io/SAP009-data-lovers/src/index.html } Clique aqui e acesse o nosso site.
+
 
 ## Índice
 
@@ -61,12 +62,12 @@ Uma História de Usuário representa em linguagem simples o que o usuário faz, 
 
 ## 7. Considerações técnicas
 
-Linguagens utilizadas: JavaScript | HTML5 | CSS3
+Linguagens utilizadas: JavaScript | HTML5 | CSS3;
 Programas e plataformas utilizadas: VSCode (codificação) | Canva: (história de usuário) | Figma (protótipo de alta fidelidade) | Metro Retro (planejamento)
 
 ## 8. Contatos 
 
-✷ Tamires Almeida
+✷ Tamires Almeid
 
 https://github.com/tatakkkj
 
