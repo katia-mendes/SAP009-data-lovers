@@ -67,13 +67,14 @@ Programas e plataformas utilizadas: VSCode (codificação) | Canva: (história d
 
 ## 8. Contatos 
 
-✷ Tamires Almeid
-
-https://github.com/tatakkkj
-
 ✷ Katia Mendes
 
 https://github.com/katia-mendes
+
+✷ Tamires Almeida
+
+https://github.com/tatakkkj
+
 
 
 
